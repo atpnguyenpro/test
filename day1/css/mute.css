@@ -1,0 +1,42 @@
+
+.content-1 , .content-2 {
+    
+    margin-bottom: 1px;
+    margin-top: 1px;
+    border-bottom:  5px;
+    background-color: white;
+}
+
+
+p {
+    color: rgb(20, 20, 18);
+}
+
+.text {
+   flex: 1;
+   border-radius: 1px;
+   padding-left: 1px;
+}
+h2 {
+color: rgb(19, 19, 22);
+    font-size: 30px;
+}
+
+.nav-bar {
+    background-color: rgb(231, 239, 245);
+    font-family: 'Courier New', Courier, monospace;
+}
+.intro {
+    padding-top: 10px;
+   border-bottom: 10px solid rgb(107, 101, 112);
+}
+main {
+    display: flex;
+  
+    flex: 7;
+
+}
+aside {
+    flex: 3;
+}
+
